@@ -1,0 +1,10 @@
+
+https://blein.us.auth0.com/authorize?audience=coffee_shop&scope=SCOPE&response_type=token&client_id=jMiUxRTFXm0pHrhc0dklHfMVpf9Zga7i&redirect_uri=http://localhost:8100/login-result
+
+$env:FLASK_APP="api.py"
+npm uninstall node-sass "Cannot GET / error on the frontend" , npm install sass
+firefox=manager
+chrome=barista
+opera=public_user
+
+Is it recommended to set token expiration time to 30 days(2592000) or 86400 (1 day) or (172800) 2 days
